@@ -1,0 +1,25 @@
+/* gunmetal: #333745;
+--cultured: #fcfafa;
+--nadeshiko-pink: #efa8b8;
+
+font-family: 'Cinzel', serif;
+font-family: 'Julius Sans One', sans-serif;
+*/
+
+
+#Recipe_1, #ingredients_table_1 {
+    color:Red;
+}
+#Recipe_2, #ingredients_table_2 {
+    color:Brown;
+}
+#Recipe_3, #ingredients_table_3 {
+    color:Green;
+}
+#body_header {
+    color:green;
+}
+
+th {
+    text-align: left;
+}
