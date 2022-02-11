@@ -1,0 +1,36 @@
+header {
+    width: 80%;
+    margin: auto;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+main {
+    width: 90%;
+    margin:auto;
+    text-align: center;
+}
+
+#newJoke {
+    padding: 5px;
+    background-color: green;
+    color: white;
+}
+
+#newJoke:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+div {
+    margin-top: 20px;
+    font-size: 1.5em;
+}
+
+#jokeDelivery {
+    margin-top: 20px;
+}
